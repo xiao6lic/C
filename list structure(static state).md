@@ -1,3 +1,4 @@
+```c
 #include<stdio.h>
 struct Student
 {
@@ -23,3 +24,4 @@ main()
 	}while(p!=NULL);
 	getchar();
 }
+```
